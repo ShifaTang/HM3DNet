@@ -1,10 +1,8 @@
-# Hierarchical Multimodal Feature Learning and 3D    
+# Hierarchical Multimodal Feature Learning and 3D Convolution for Rail Defect Detection
 
-#                         Convolution for Rail Defect Detection
-
-![](C:\Users\唐时发\Desktop\prcv2025.png)
-
-
+<p align="center">
+  <img src="images/prcv2025.png" width="700">
+</p>
 
 ## Quick Start
 
@@ -47,19 +45,29 @@ python test_produce_maps.py
 
 - the result on NEU RSDDS-AUG dataset
 
-![image-20260209213926629](C:\Users\唐时发\AppData\Roaming\Typora\typora-user-images\image-20260209213926629.png)
+<p align="center">
+  <img src="images/result_new.png" width="700">
+</p>
 
 - the result on NJU2K、NLPR、STERE dataset
 
-![image-20260209214043133](C:\Users\唐时发\AppData\Roaming\Typora\typora-user-images\image-20260209214043133.png)
+<p>
+    <img src="images/result_nj.png" width=700>
+</p>
+
+
 
 - the comparsion between ours and other methods
 
-![image-20260209220250038](C:\Users\唐时发\AppData\Roaming\Typora\typora-user-images\image-20260209220250038.png)
+<p align="center">
+    <img src="images/result_comparsion.png">
+</p>
+
+
 
 ## Dataset
 
-Follow previouts the research of Sailent Object Dection, we use NEU RSDDS-AUG、NJU2K、NLPR、STERE as dataset . These datasets have already been divided into train split、test split and you can find them online.
+Follow previouts the research of Sailent Object Dection, we use NEU RSDDS-AUG、NJU2K、NLPR、STERE as dataset . These datasets have  already been divided into train split、test split and you can find them online.
 
 ## Citation
 
