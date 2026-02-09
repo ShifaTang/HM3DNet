@@ -24,7 +24,7 @@ pip install -r requirements.txt
 3. Clone the repo
 
 ```python
-git clone xxx
+git clone https://github.com/ShifaTang/HM3DNet.git
 ```
 
 4. Training model
