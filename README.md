@@ -1,7 +1,7 @@
 # Hierarchical Multimodal Feature Learning and 3D Convolution for Rail Defect Detection
 
 <p align="center">
-  <img src="images/prcv2025.png" width="700">
+  <img src="images/prcv2025.png">
 </p>
 
 ## Quick Start
@@ -46,13 +46,13 @@ python test_produce_maps.py
 - the result on NEU RSDDS-AUG dataset
 
 <p align="center">
-  <img src="images/result_new.png" width="700">
+  <img src="images/result_new.png">
 </p>
 
 - the result on NJU2K、NLPR、STERE dataset
 
 <p>
-    <img src="images/result_nj.png" width=700>
+    <img src="images/result_nj.png">
 </p>
 
 
